@@ -165,7 +165,7 @@ ul.info-list {
 
 a.info-link-a {
     font-family: "Lato", Arial, Helvetica, sans-serif;
-    font-size: 15px;
+    font-size: 17px;
     color: white;
 }
 
@@ -174,7 +174,8 @@ a.info-link-a:hover {
 }
 
 .info-title {
+    font-weight: bold;
     font-family: "Lato", Arial, Helvetica, sans-serif;
-    font-size: 17px;
+    font-size: 20px;
     color: #015240;
-}    
+}  
