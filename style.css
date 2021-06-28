@@ -153,3 +153,7 @@ ul.info-list {
     padding-left: 0px;
 }
 
+.ui-g {
+    display: flex;
+    flex-wrap: wrap;
+}
