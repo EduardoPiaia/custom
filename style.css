@@ -183,3 +183,7 @@ a.info-link-a:hover {
 .rodape-panel {
     border-top: 3px solid #015240;
 }
+
+.info-list-l {
+    margin-bottom: 10px;
+}
