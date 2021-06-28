@@ -179,3 +179,7 @@ a.info-link-a:hover {
     font-size: 18px;
     color: #015240;
 }  
+
+.rodape-panel {
+    border-top: 3px solid #015240;
+}
