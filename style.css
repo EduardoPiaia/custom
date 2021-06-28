@@ -168,7 +168,7 @@ ul.info-list {
     color: white;
 }
 
-.info-list-l:hover {
+a.info-list-l:hover {
     font-size: medium;
     color: #015240;
 }
