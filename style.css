@@ -157,3 +157,7 @@ ul.info-list {
     display: flex;
     flex-wrap: wrap;
 }
+
+.div-rodape {
+    width: 100%;
+}
