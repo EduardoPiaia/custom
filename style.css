@@ -167,6 +167,7 @@ a.info-link-a {
     font-family: "Lato", Arial, Helvetica, sans-serif;
     font-size: 16px;
     color: white; !important
+    font-weight: normal; !important
 }
 
 a.info-link-a:hover {
