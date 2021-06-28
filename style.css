@@ -163,12 +163,17 @@ ul.info-list {
     height: 100px;
 }
 
-a.info-list-l {
-    font-size: medium;
+a.info-link-a {
+    font-size: 14px;
     color: white;
 }
 
-a.info-list-l:hover {
-    font-size: medium;
+a.info-link-a:hover {
+    font-size: 14px;
     color: #015240;
 }
+
+.info-title {
+    font-size: 15px;
+    color: #015240;
+}    
