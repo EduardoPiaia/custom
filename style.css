@@ -162,3 +162,13 @@ ul.info-list {
     width: 100%;
     height: 100px;
 }
+
+.info-list-l {
+    font-size: medium;
+    color: white;
+}
+
+.info-list-l:hover {
+    font-size: medium;
+    color: #015240;
+}
