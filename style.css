@@ -151,9 +151,13 @@ a.info-link-a {
 }  
 
 .info-list-l {
-    margin-bottom: 7px;
+    margin-bottom: 15px;
 }
 
 .info-link-icons {
     padding-left: 15px;
+}
+
+.list-comercial {
+    margin-bottom: 15px;
 }
